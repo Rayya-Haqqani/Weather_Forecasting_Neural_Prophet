@@ -1,7 +1,7 @@
 # Weather Forecasting with NeuralProphet
 
 Description:
-A weather forecasting model that uses NeuralProphet, an advanced time series forecasting library built on top of PyTorch. The model processes historical weather data and predicts future weather trends such as temperature, humidity, and rainfall.
+A weather forecasting model that uses NeuralProphet, an advanced time series forecasting library. The model processes historical weather data and predicts future weather trends such as temperature, humidity, and rainfall in Melbourne, Australia.
 
 Technologies: NeuralProphet, Python, Pandas, Matplotlib
 
